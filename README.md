@@ -3,7 +3,7 @@
 
 - 🔭 I’m studying **Computer Science**
 
-- 👨‍💻 My portfolio's available on [https://www.shayanshojaei.com](www.shayanshojaei.com)
+- 👨‍💻 My portfolio's available on [www.shayanshojaei.com](https://www.shayanshojaei.com)
 
 - 📫 How to reach me **shayanshojaei.2002@gmail.com**
 
